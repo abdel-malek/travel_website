@@ -66,7 +66,13 @@ class PackageController extends Controller
            return redirect('/admin-login');  
         }
     }
-    
+        
+    public function upload(Request $request){
+         $imageName = rand(10,100000).'.'.$request->image->getClientOriginalExtension();
+                $request->image->move(public_path('images'), $imageName);
+//                $day->image = $imageName;
+                echo $imageName;
+    }
     public function store(Request $request)
     {
         if(Session::get('is_login') == TRUE){
@@ -87,9 +93,9 @@ class PackageController extends Controller
                 $day->package_id = $id_package;
                 $day->description = $get_days->description;
                 
-                $imageName = rand(10,100000).'.'.$get_days->image->getClientOriginalName();
-                $get_days->image->move(public_path('images'), $imageName);
-                $day->image = $imageName;
+//                $imageName = rand(10,100000).'.'.$get_days->image->getClientOriginalName();
+//                $get_days->image->move(public_path('images'), $imageName);
+               $day->image = $get_days->image;
 //                $array_image = $get_days->image['tmp_name'];
               
                 

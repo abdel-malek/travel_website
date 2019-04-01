@@ -45,6 +45,7 @@ Route::post('/package/update/{id}', 'PackageController@update');
 Route::get('/package/add', 'PackageController@add');
 Route::post('/package/store', 'PackageController@store');
 Route::post('/package/remove', 'PackageController@remove');
+Route::post('/package/upload', 'PackageController@upload');
 
 Route::get('/day', 'DayController@index');
 Route::get('/day/edit/{id}', 'DayController@edit');

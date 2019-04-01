@@ -56,7 +56,7 @@
                             <label for="exampleInputEmail1">Image</label>
                             <div class="form-group" >
                                 <div class="file-loading">
-                                    <input  type="file"  name="image" class="file image_add_day" data-overwrite-initial="false" data-min-file-count="2">
+                                    <input  type="file"  name="image" onchange="upload_image_day(this)" class="file image_add_day" data-overwrite-initial="false" data-min-file-count="2">
                                 </div>
                             </div>
                         </div>

@@ -13,7 +13,7 @@ function create_day(){
                     '<label for="exampleInputEmail1">Image</label>'+
                     '<div class="form-group">'+
                         '<div class="file-loading">'+
-                            '<input  type="file"  name="image" class="file image_add_day" data-overwrite-initial="false" data-min-file-count="2">'+
+                            '<input  type="file" onchange="upload_image_day(this)"  name="image" class="file image_add_day" data-overwrite-initial="false" data-min-file-count="2">'+
                         '</div>'+
                     '</div>'+
                 '</div>'+
@@ -45,7 +45,7 @@ function add_packages(url){
             id:$(this).find('.id_package').val(),
             title: $(this).find('.title_package').val(),
             description:  $(this).find('.description_package').val(),
-            image: $(this).find('.image_add_day').prop('files')[0]
+            image: $(this).find('.image_add_day').attr('image_name')
         });
 //        form_data.append('id', $(this).find('.id_package').val());
 //        form_data.append('title', $(this).find('.title_package').val());
@@ -86,6 +86,31 @@ form_package.append('days',JSON.stringify(days));
    });
 }
 
+function upload_image_day(obj){
+    var file_data = $(obj).prop('files')[0];
+    var form_data = new FormData();
+    form_data.append('image', file_data);
+    $.ajax({
+         headers: {
+           'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')
+       },
+        url: '/package/upload', // point to server-side controller method
+        dataType: 'text', // what to expect back from the server
+        cache: false,
+        contentType: false,
+        processData: false,
+        data: form_data,
+        type: 'post',
+        success: function (response) {
+            $('#msg').html(response); 
+            $(obj).attr('image_name',response);// display success response from the server
+        },
+        error: function (response) {
+            $('#msg').html(response); // display error response from the server
+        }
+    });
+}
+
 function clear_package(){
     $('#block_add_day').html("");
      var html = '<form class="forms-sample form_add_day"  action="{{action(\'PackageController@store\')}}"  method="post" style="margin-top: 2rem;">'+
@@ -110,6 +135,20 @@ $('#block_add_day').html(html);
 $('#title_package').val('');
 $('#description_package').val('');
 $('#price_package').val('');
+
+$(".image_add_day").fileinput({
+    uploadUrl: "{{url('images/')}}",
+    uploadAsync: false,
+    overwriteInitial: false,
+    initialPreviewAsData: true, 
+    initialPreviewFileType: 'image', 
+    purifyHtml: true,
+    allowedFileExtensions: ['jpg', 'png', 'gif', 'svg'],
+}).on('filesorted', function(e, params) {
+    console.log('File sorted params', params);
+}).on('fileuploaded', function(e, params) {
+    console.log('File uploaded params', params);
+});
 }
 
 
