@@ -12,6 +12,7 @@ class PackageController extends Controller
     public function index()
     {
         if(Session::get('is_login') == TRUE){
+            Session::put('edit_image', FALSE);
             $package = Package::all();
             return view('dashboard/pages/package')->with('package',$package);
         } else {
@@ -22,6 +23,7 @@ class PackageController extends Controller
     public function edit($id)
     {
         if(Session::get('is_login') == TRUE){
+            Session::put('edit_image', TRUE);
             $package = Package::find($id);
             $days = Day::all()->where('package_id',$id);
             return view('dashboard/pages/package_edit')->with('package',$package)->with('days',$days);
@@ -49,6 +51,7 @@ class PackageController extends Controller
            }
        $day->title = $get_days->title;
        $day->package_id = $id;
+       $day->image = $get_days->image;
        $day->description = $get_days->description;
        $day->save();
        }
@@ -61,6 +64,7 @@ class PackageController extends Controller
     public function add()
     {
         if(Session::get('is_login') == TRUE){
+            Session::put('edit_image', FALSE);
             return view('dashboard/pages/package_add');
         }else{
            return redirect('/admin-login');  
@@ -73,6 +77,7 @@ class PackageController extends Controller
 //                $day->image = $imageName;
                 echo $imageName;
     }
+    
     public function store(Request $request)
     {
         if(Session::get('is_login') == TRUE){

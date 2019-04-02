@@ -12,6 +12,7 @@ class DayController extends Controller
         public function index()
     {
         if(Session::get('is_login') == TRUE){
+            Session::put('edit_image', FALSE);
             $Day = Day::with('package')->get();
             return view('dashboard/pages/day')->with('day',$Day);
         }else{
@@ -22,6 +23,7 @@ class DayController extends Controller
     public function edit($id)
     {
         if(Session::get('is_login') == TRUE){
+            Session::put('edit_image', FALSE);
             $Day = Day::find($id);
             $package = Package::all();
             return view('dashboard/pages/day_edit')->with('day',$Day)->with('package',$package); 
@@ -47,6 +49,7 @@ class DayController extends Controller
     public function add()
     {
         if(Session::get('is_login') == TRUE){
+            Session::put('edit_image', FALSE);
             $packages = Package::all();
             return view('dashboard/pages/day_add')->with('package',$packages);
         }else{

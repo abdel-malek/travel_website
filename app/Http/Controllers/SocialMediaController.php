@@ -11,6 +11,7 @@ class SocialMediaController extends Controller
        public function index()
     {
         if(Session::get('is_login') == TRUE){
+            Session::put('edit_image', FALSE);
             $social_media = SocialMedia::all();
             return view('dashboard/pages/social_media')->with('social_media',$social_media);
         }else{
@@ -21,6 +22,7 @@ class SocialMediaController extends Controller
     public function edit($id)
     {
         if(Session::get('is_login') == TRUE){
+            Session::put('edit_image', FALSE);
             $social_media = SocialMedia::find($id);
             return view('dashboard/pages/social_media_edit')->with('social_media',$social_media); 
         }else{
@@ -44,6 +46,7 @@ class SocialMediaController extends Controller
     public function add()
     {
         if(Session::get('is_login') == TRUE){
+            Session::put('edit_image', FALSE);
             return view('dashboard/pages/social_media_add');
         }else{
             return redirect('/admin-login');

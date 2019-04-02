@@ -11,6 +11,7 @@ class GalleryController extends Controller
            public function index()
     {
         if(Session::get('is_login') == TRUE){
+            Session::put('edit_image', FALSE);
             $gallery = Gallery::all();
             return view('dashboard/pages/gallery')->with('gallery',$gallery);
         }else{
@@ -21,6 +22,7 @@ class GalleryController extends Controller
     public function edit($id)
     {
         if(Session::get('is_login') == TRUE){
+            Session::put('edit_image', FALSE);
             $gallery = Gallery::find($id);
             return view('dashboard/pages/gallery_edit')->with('gallery',$gallery); 
         }else{
@@ -48,6 +50,7 @@ class GalleryController extends Controller
     public function add()
     {
         if(Session::get('is_login') == TRUE){
+            Session::put('edit_image', FALSE);
             $gallery = Gallery::all();
             return view('dashboard/pages/gallery_add')->with('gallery',$gallery);
         }else{

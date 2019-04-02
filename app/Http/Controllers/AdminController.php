@@ -11,6 +11,7 @@ class AdminController extends Controller
     public function index()
     {
          if(Session::get('is_login') == TRUE){
+             Session::put('edit_image', FALSE);
         $admins = Admin::all();
         return view('dashboard/pages/admin')->with('admin',$admins);
          }else{
@@ -21,6 +22,7 @@ class AdminController extends Controller
     public function edit($id)
     {
         if(Session::get('is_login') == TRUE){
+            Session::put('edit_image', FALSE);
         $admin = Admin::find($id);
         return view('dashboard/pages/admin_edit')->with('admin',$admin); 
         }else{
@@ -44,6 +46,7 @@ class AdminController extends Controller
     public function add()
     {
         if(Session::get('is_login') == TRUE){
+            Session::put('edit_image', FALSE);
             return view('dashboard/pages/admin_add');
         }else{
             return redirect('/admin-login');

@@ -10,6 +10,7 @@ class MessageController extends Controller
 {
     public function index() {
         if (Session::get('is_login') == TRUE) {
+            Session::put('edit_image', FALSE);
             $message = Message::all();
             return view('dashboard/pages/message')->with('message', $message);
         } else {

@@ -21,6 +21,7 @@
   <link rel="stylesheet" href="{{url('css/dashboard/style.css')}}">
   <!-- endinject -->
   <link rel="shortcut icon" href="{{url('img/favicon.png')}}" />
+
   <style>
 .dashboard_active{
     display:none;
@@ -104,7 +105,7 @@
     <!-- page-body-wrapper ends -->
   </div>
   <!-- container-scroller -->
-
+  @if(Session::get('edit_image') == FALSE)
   <!-- plugins:js -->
   <script src="{{url('js/dashboard/vendor.bundle.base.js')}}"></script>
   <script src="{{url('js/dashboard/vendor.bundle.addons.js')}}"></script>
@@ -113,11 +114,14 @@
   <!-- End plugin js for this page-->
   <!-- inject:js -->
   <script src="{{url('js/dashboard/off-canvas.js')}}"></script>
+  @endif
   <script src="{{url('js/dashboard/misc.js')}}"></script>
   <!-- endinject -->
   <!-- Custom js for this page-->
   <script src="{{url('js/dashboard/dashboard.js')}}"></script>
+  @if(Session::get('edit_image') == FALSE)
     <script src="{{url('js/dashboard/fileinput.js')}}" type="text/javascript"></script>
+    @endif
   <script src="{{url('js/safar/package.js')}}"></script>
   <script>
             function delete_row(obj,id,url){
@@ -138,7 +142,9 @@
 				});
             }
         }
-        
+        </script>
+        @if(Session::get('edit_image') == FALSE)
+        <script>
         
         $("#image_add_one_day").fileinput({
     uploadUrl: "{{url('images/')}}",
@@ -230,6 +236,7 @@ $(".image_edit_day").fileinput({
 });
 
   </script>
+  @endif
   <!-- End custom js for this page-->
 </body>
 

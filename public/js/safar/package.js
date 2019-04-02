@@ -18,7 +18,7 @@ function create_day(){
                     '</div>'+
                 '</div>'+
             '</form>';
-$('#block_add_day').append(html);
+$('#block_add_day').prepend(html);
 $(".image_add_day").fileinput({
     uploadUrl: "{{url('images/')}}",
     uploadAsync: false,
@@ -51,8 +51,8 @@ function add_packages(url){
 //        form_data.append('title', $(this).find('.title_package').val());
 //        form_data.append('description', $(this).find('.description_package').val());
 //        form_data.append('image', $(this).find('.image_add_day').prop('files')[0]);
-        console.log($(this).find('.image_add_day').prop('files')[0]);
-        console.log($(this).find('.description_package').val());  
+//        console.log($(this).find('.image_add_day').prop('files')[0]);
+//        console.log($(this).find('.description_package').val());  
     });
 //    console.log(days);
 //    var data = {
@@ -86,7 +86,23 @@ form_package.append('days',JSON.stringify(days));
    });
 }
 
-function upload_image_day(obj){
+function upload_image_day(obj,is_empty=false){
+    if(is_empty == true){
+        $(obj).fileinput('destroy');
+    }
+    $(obj).fileinput({
+        uploadUrl: "{{url('images/')}}",
+        uploadAsync: false,
+        overwriteInitial: false,
+        initialPreviewAsData: true,
+        initialPreviewFileType: 'image',
+        purifyHtml: true,
+        allowedFileExtensions: ['jpg', 'png', 'gif', 'svg']
+    }).on('filesorted', function (e, params) {
+        console.log('File sorted params', params);
+    }).on('fileuploaded', function (e, params) {
+        console.log('File uploaded params', params);
+    });
     var file_data = $(obj).prop('files')[0];
     var form_data = new FormData();
     form_data.append('image', file_data);
