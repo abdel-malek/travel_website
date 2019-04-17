@@ -101,10 +101,13 @@
 					</ul>
 				</li>
 				<li id="menu-item-40" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-15 current_page_item">
-					<a href="/package_client">DINING</a>
+					<a href="/package_client">PACKAGE</a>
 				</li>
 				<li id="menu-item-39" class="menu-item menu-item-type-post_type menu-item-object-page">
 					<a href="/day_client">ACTIVITIES</a>
+				</li>
+                                <li id="menu-item-39" class="menu-item menu-item-type-post_type menu-item-object-page">
+					<a href="/about_client">ABOUT US</a>
 				</li>
 				<li id="menu-item-38" class="menu-item menu-item-type-post_type menu-item-object-page">
 					<a href="/gallery_client">GALLERY</a>
@@ -147,10 +150,13 @@
 									</ul>
 								</li>
 								<li id="menu-item-40" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-15 current_page_item menu-item-40">
-									<a href="/package_client">DINING</a>
+									<a href="/package_client">PACKAGE</a>
 								</li>
 								<li id="menu-item-39" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39">
 									<a href="/day_client">ACTIVITIES</a>
+								</li>
+                                                                <li id="menu-item-39" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39">
+									<a href="/about_client">ABOUT US</a>
 								</li>
 								<li id="menu-item-38" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38">
 									<a href="/gallery_client">GALLERY</a>
@@ -585,16 +591,16 @@
 								<div class="menu-widget-menu-1-container">
 									<ul id="menu-widget-menu-1" class="menu">
 										<li id="menu-item-160" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-160">
-											<a href="#">ABOUT</a>
+                                                                                    <a href="/about_client">ABOUT</a>
 										</li>
 										<li id="menu-item-159" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-159">
-											<a href="/rooms_client">ROOMS</a>
+                                                                                    <a href="/rooms_client">ROOMS</a>
 										</li>
 										<li id="menu-item-158" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-15 current_page_item menu-item-158">
-											<a href="/package_client">DINING</a>
+                                                                                    <a href="/package_client">PACKAGE</a>
 										</li>
 										<li id="menu-item-157" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-157">
-											<a href="/day_client">ATTRACTIONS</a>
+                                                                                    <a href="/day_client">ATTRACTIONS</a>
 										</li>
 									</ul>
 								</div>

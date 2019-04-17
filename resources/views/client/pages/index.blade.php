@@ -165,29 +165,32 @@
                     <li id="menu-item-42" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-9 current_page_item">
                         <a href="/">HOMEPAGE</a>
                     </li>
-                    <li id="menu-item-41" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children">
+<!--                    <li id="menu-item-41" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children">
                         <a href="/rooms_client">ROOMS</a>
                         <ul class="sub-menu">
                             <li id="menu-item-515" class="menu-item menu-item-type-post_type menu-item-object-page">
                                 <a href="/rooms_client">ROOM DETAILS</a>
                             </li>
                         </ul>
-                    </li>
-                    <li id="menu-item-40" class="menu-item menu-item-type-post_type menu-item-object-page">
-                        <a href="/package_client">DINING</a>
+                    </li>-->
+<!--                    <li id="menu-item-40" class="menu-item menu-item-type-post_type menu-item-object-page">
+                        <a href="/package_client">PACKAGE</a>
                     </li>
                     <li id="menu-item-39" class="menu-item menu-item-type-post_type menu-item-object-page">
                         <a href="/day_client">ACTIVITIES</a>
+                    </li>-->
+                    <li id="menu-item-40" class="menu-item menu-item-type-post_type menu-item-object-page">
+                        <a href="/about_client">ABOUT US</a>
                     </li>
                     <li id="menu-item-38" class="menu-item menu-item-type-post_type menu-item-object-page">
                         <a href="/gallery_client">GALLERY</a>
                     </li>
-                    <li id="menu-item-37" class="menu-item menu-item-type-post_type menu-item-object-page">
+<!--                <li id="menu-item-37" class="menu-item menu-item-type-post_type menu-item-object-page">
                         <a href="/offers_client">OFFERS</a>
-                    </li>
-                    <li id="menu-item-36" class="menu-item menu-item-type-post_type menu-item-object-page">
+                    </li>-->
+<!--                    <li id="menu-item-36" class="menu-item menu-item-type-post_type menu-item-object-page">
                         <a href="/contact_us">CONTACT</a>
-                    </li>
+                    </li>-->
                 </ul>
             </nav>
             <header class="fw-header" itemscope="itemscope" itemtype="https://schema.org/WPHeader">
@@ -211,29 +214,32 @@
                                     <li id="menu-item-42" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-9 current_page_item menu-item-42">
                                         <a href="/">HOMEPAGE</a>
                                     </li>
-                                    <li id="menu-item-41" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-41">
+<!--                                    <li id="menu-item-41" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-41">
                                         <a href="/rooms_client">ROOMS</a>
                                         <ul class="sub-menu">
                                             <li id="menu-item-515" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-515">
                                                 <a href="/rooms_client">ROOM DETAILS</a>
                                             </li>
                                         </ul>
-                                    </li>
-                                    <li id="menu-item-40" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-40">
-                                        <a href="/package_client">DINING</a>
+                                    </li>-->
+<!--                                    <li id="menu-item-40" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-40">
+                                        <a href="/package_client">PACKAGE</a>
                                     </li>
                                     <li id="menu-item-39" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39">
                                         <a href="/day_client">ACTIVITIES</a>
+                                    </li>-->
+                                     <li id="menu-item-39" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39">
+                                        <a href="/about_client">ABOUT US</a>
                                     </li>
                                     <li id="menu-item-38" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38">
                                         <a href="/gallery_client">GALLERY</a>
                                     </li>
-                                    <li id="menu-item-37" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37">
+<!--                                    <li id="menu-item-37" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37">
                                         <a href="/offers_client">OFFERS</a>
-                                    </li>
-                                    <li id="menu-item-36" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36">
+                                    </li>-->
+<!--                                    <li id="menu-item-36" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36">
                                         <a href="/contact_us">CONTACT</a>
-                                    </li>
+                                    </li>-->
                                 </ul>
                             </nav>
                         </div>
@@ -270,23 +276,112 @@
                                      fw-col-no-padding " data-animation-type="fadeInUp " data-animation-delay="300 ">
                                     <div class="fw-col-inner ">
                                         <div class="fw-heading fw-heading-left fw-heading-with-subtitle tf-sh-596d9ce01793c8df2004aa05ff23a22a " >
-                                            <h1 class="fw-special-title ">Island Resort</h1>
+                                            <h1 class="fw-special-title ">Nahas International </h1>
 
 
-                                            <div class="fw-special-subtitle ">A 30-ROOM BOUTIQUE HOTEL IN LOVELY WEST BAHAMAS</div>
+                                            <!--<div class="fw-special-subtitle ">A 30-ROOM BOUTIQUE HOTEL IN LOVELY WEST BAHAMAS</div>-->
                                         </div>	<div  class="fw-divider tf-sh-3f42584dc1fcd29f6545ab059538b4cc fw-divider-align-left fw-line-solid fw-divider-line
                                                      "  style="width:110px; padding-top:10px; margin-bottom:25px; border-color:#e7e7e7; " ></div>
                                         <div class="fw-text-box tf-sh-55aa6c8e1c618ad8c1e7ce5db9b3b850 " >
                                             <div class="fw-text-inner ">
-                                                <p>The Island House stands out among Nassau resorts, having been designed with both visitors and the local community in mind, and as a symbiotic extension of the surrounding environment. The property features six rental apartments, two restaurants, a cafe, art house cinema, lap pool, movement studio, squash courts, padel court and a Bamford Spa.</p>
+                                                <p>Nahas International for Travel is one of the leading travel companies in Syria, which satisfies travel requirements in the Middle East and provides services to local and international companies, as well for tourists and travelers to our region.</p>
+                                                <p>This site introduces to you a wide selection of destinations, accommodation and tour programs. They have all been complied with careful attention to value for money, variety, timings and the opportunity to experience the best Syria has to offer. In addition, of course, everything is backed by the most experienced team of travel professionals in the Middle East: Nahas Travel Services Syria. </p>
+                                                <p>The tourist possibilities are numerous, if one considers the archeological, natural and cultural wealth of this country & the facilities that can insure good services and help renew traditions in the tourism sector.</p>
                                             </div>
                                         </div><div class="fw-divider-space fw-custom-space clearfix " style="height:95px; " ></div>	</div>
                                 </div></div>
 
                         </div>
-                    </section><section  id="section-5aff287e678e5 " class=" fw-main-row-custom fw-section-no-padding auto tf-sh-5ace55c49c27a11919ab9de92ae78262
-                                        quick-reservation-section "  style=" "  >
+                         
                         <div class="fw-container " >
+                            <div class="fw-row ">
+                                <div id="column-e896d86ac3f1d5e66d53017fbdeb8aac " class="fw-col-sm-12 tf-sh-e896d86ac3f1d5e66d53017fbdeb8aac fw-animated-element
+                                     fw-col-no-padding " data-animation-type="fadeInUp " data-animation-delay="300 ">
+                                    <div class="fw-col-inner ">
+                                        <div class="fw-heading fw-heading-left fw-heading-with-subtitle tf-sh-596d9ce01793c8df2004aa05ff23a22a " >
+                                            <h1 class="fw-special-title ">Why Syria </h1>
+                                            <div class="fw-special-subtitle ">A gateway to the Middle East</div>
+                                        </div>	<div  class="fw-divider tf-sh-3f42584dc1fcd29f6545ab059538b4cc fw-divider-align-left fw-line-solid fw-divider-line
+                                                     "  style="width:110px; padding-top:10px; margin-bottom:25px; border-color:#e7e7e7; " ></div>
+                                        <div class="fw-text-box tf-sh-55aa6c8e1c618ad8c1e7ce5db9b3b850 " >
+                                            <div class="fw-text-inner ">
+                                                <p>Situated at the eastern end of the Mediterranean Sea, Syria is probably one of the few destinations in the world that promises something special for every traveler. A warm climate, the renowned hospitality of its people and a staggering 8,500 years of tangible history makes Syria a great choice for travel & tourism at any time of the year.</p>
+                                                <p>In addition to this, enterprise offers you a selection of tours that takes you beyond the borders of Syria. The more adventurous will marvel at the fascinating historical and modern sites of both Lebanon and Jordan. However, if rest and relaxation is what is required, the Mediterranean resorts of Lattakia and Tartous boast some of the most striking sand beaches in the region, while not far inland are the beautiful green mountains of the coastal belt.</p>
+                                                <a href="/why_syria_client">Read More</a>
+                                            </div>
+                                        </div><div class="fw-divider-space fw-custom-space clearfix " style="height:95px; " ></div>	</div>
+                                </div></div>
+
+                        </div>
+                                                                                                                                   
+                        <div class="fw-container " >
+                            <div class="fw-row ">
+                                <div id="column-e896d86ac3f1d5e66d53017fbdeb8aac " class="fw-col-sm-12 tf-sh-e896d86ac3f1d5e66d53017fbdeb8aac fw-animated-element
+                                     fw-col-no-padding " data-animation-type="fadeInUp " data-animation-delay="300 ">
+                                    <div class="fw-col-inner ">
+                                        <div class="fw-heading fw-heading-left fw-heading-with-subtitle tf-sh-596d9ce01793c8df2004aa05ff23a22a " >
+                                            <h1 class="fw-special-title ">Our Services </h1>
+                                            <div class="fw-special-subtitle ">Nahas International Travel </div>
+                                        </div>	<div  class="fw-divider tf-sh-3f42584dc1fcd29f6545ab059538b4cc fw-divider-align-left fw-line-solid fw-divider-line
+                                                     "  style="width:110px; padding-top:10px; margin-bottom:25px; border-color:#e7e7e7; " ></div>
+                                        <div class="fw-text-box tf-sh-55aa6c8e1c618ad8c1e7ce5db9b3b850 " >
+                                            <div class="fw-text-inner ">
+                                                <p>
+                                                    <b> Nahas International Travel </b> provides the following:
+                                                </p>
+                                                <ul>
+                                                    <li>
+                                                        Travel services for companies and businessmen 
+                                                    </li>
+                                                    <li>
+                                                        Air-tickets reservations 
+                                                    </li>
+                                                    <li>
+                                                        Hotel reservations 
+                                                    </li>
+                                                </ul>
+                                                <p>
+                                                    We also provide retail and wholesale services for individuals and resellers in tourism offices
+                                                </p>
+                                                <ul>
+                                                    <li>    
+                                                        Ground handling for Syria, Jordan and Lebanon 
+                                                    </li>
+                                                    <li>
+                                                        Prepared and tailor-made programs for groups and individuals
+                                                    </li>
+                                                    <li>
+                                                        Landing arrangements for cruises 
+                                                    </li>
+                                                    <li>    
+                                                        Excursions and sightseeing tours 
+                                                    </li>
+                                                    <li>
+                                                        A wide variety of hotels at competitive rates
+                                                    </li>
+                                                    <li>
+                                                        Car hire and coaches 
+                                                    </li>
+                                                    <li>    
+                                                        Conference and congress arrangements 
+                                                    </li>
+                                                    <li>
+                                                        Outbound services.
+                                                    </li>
+                                                </ul>
+                                                <a href="/our_services_client">Read More</a>
+                                            </div>
+                                        </div>
+                                        <div class="fw-divider-space fw-custom-space clearfix" style="height:95px;" ></div>	
+                                    </div>
+                                </div>
+                            </div>
+                        </div>                                                                                                                
+                    </section>
+                    
+<!--                    <section  id="section-5aff287e678e5" class="fw-main-row-custom fw-section-no-padding auto tf-sh-5ace55c49c27a11919ab9de92ae78262
+                                        quick-reservation-section"  style=""  >
+                        <div class="fw-container" >
                             <div class="fw-row ">
                                 <div id="column-8feb7d2210ee4e1208c23fd7b635c6e7 " class="fw-col-sm-12 fw-col-md-12 tf-sh-8feb7d2210ee4e1208c23fd7b635c6e7
                                      quick-reservation fw-animated-element " data-animation-type="fadeInUp " data-animation-delay="300 ">
@@ -358,47 +453,53 @@
                                                             <option value="8 ">8</option>
                                                             <option value="9 ">9</option>
                                                         </select>
-                                                        <span class="fw-external-booking-separator "></span>				</div>
-                                                    <div class="text-center ">			<a href="https://www.booking.com/hotel/gb/park-plaza-westminster-bridge.en-gb.html
-                                                                                    " target="_blank " data-url="https://www.booking.com/hotel/gb/park-plaza-westminster-bridge.en-gb.html " data-source="booking.com
-                                                                                    " class="fw-external-booking-url fw-btn fw-btn-1 " style="width:175px;height:69px; line-height:69px; ">
+                                                        <span class="fw-external-booking-separator "></span>
+                                                    </div>
+                                                    <div class="text-center ">
+                                                        <a href="https://www.booking.com/hotel/gb/park-plaza-westminster-bridge.en-gb.html" target="_blank" data-url="https://www.booking.com/hotel/gb/park-plaza-westminster-bridge.en-gb.html" data-source="booking.com" class="fw-external-booking-url fw-btn fw-btn-1" style="width:175px;height:69px; line-height:69px;">
                                                             <span>
-                                                                BOOK NOW							</span>
+                                                                BOOK NOW
+                                                            </span>
                                                         </a>
-                                                    </div>		</div>
+                                                    </div>
+                                                </div>
                                             </div>
-                                        </div>	</div>
-                                </div></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
 
                         </div>
-                    </section><section  id="section-5aff287e68866 " class=" fw-main-row-custom fw-section-no-padding auto tf-sh-bbfe32188c8ff4d1d9342e4815f31d57
-                                        "  style=" "  >
-                        <div class="fw-container " >
-                            <div class="fw-row ">
+                    </section>-->
+                    
+                    
+<!--                    <section  id="section-5aff287e68866" class="fw-main-row-custom fw-section-no-padding auto tf-sh-bbfe32188c8ff4d1d9342e4815f31d57"  style=""  >
+                        <div class="fw-container" >
+                            <div class="fw-row">
                                 <div id="column-db39bca57681629214e016b315c021a2 " class="fw-col-sm-12 tf-sh-db39bca57681629214e016b315c021a2 " >
                                     <div class="fw-col-inner ">
-                                        <div class="fw-divider-space fw-custom-space fw-mobile-hide-element clearfix " style="height:110px; " ></div>	</div>
-                                </div></div>
-
+                                        <div class="fw-divider-space fw-custom-space fw-mobile-hide-element clearfix" style="height:110px;" ></div>	
+                                    </div>
+                                </div>
+                            </div>
                         </div>
-                    </section><section  id="section-5aff287e690e7 " class=" fw-main-row-custom fw-section-no-padding fw_theme_bg_fw-custom
-                                        fw-section-image auto tf-sh-e36e7516bdd30236ecdb543287826037 remove-bg-on-mobile "  style=" background-image:url(wp-content/uploads/2017/04/room-type-slider-bg.png);
-                                        background-repeat: no-repeat; background-position: center top; background-size: auto; "  >
+                    </section>-->
+                    
+<!--                    <section  id="section-5aff287e690e7" class="fw-main-row-custom fw-section-no-padding fw_theme_bg_fw-custom
+                                        fw-section-image auto tf-sh-e36e7516bdd30236ecdb543287826037 remove-bg-on-mobile"  
+                                        style="background-image:url(wp-content/uploads/2017/04/room-type-slider-bg.png);background-repeat: no-repeat; background-position: center top; background-size: auto; ">
                         <div class="fw-container-fluid " >
                             <div class="fw-row ">
-
-                                <div id="column-9a3b1af581a556a194754083c7f6843b " class="fw-col-sm-12 fw-col-md-8 tf-sh-9a3b1af581a556a194754083c7f6843b
-                                     responsive-slider-0 fw-animated-element animated fadeInLeft fill-mode-none " data-animation-type="fadeInLeft
-                                     " data-animation-delay="300 " style="animation-delay: 0.3s; ">
-                                    <div class="fw-col-inner ">
-
-                                        <div id="rev_slider_1_1_wrapper " class="rev_slider_wrapper fullwidthbanner-container " data-source="posts
-                                             " style="margin: 0px auto; background: transparent; padding: 0px; height: 531px; overflow: visible; ">
-                                            <!-- START REVOLUTION SLIDER 5.4.3.1 auto mode -->
-                                            <div id="rev_slider_1_1 " class="rev_slider fullwidthabanner revslider-initialised tp-simpleresponsive rev_redraw_on_blurfocus
-                                                 " style="margin-top: 0px; margin-bottom: 0px; height: 531px; " data-version="5.4.3.1 " data-slideactive="rs-109 ">
+                                <div id="column-9a3b1af581a556a194754083c7f6843b" class="fw-col-sm-12 fw-col-md-8 tf-sh-9a3b1af581a556a194754083c7f6843b
+                                     responsive-slider-0 fw-animated-element animated fadeInLeft fill-mode-none" data-animation-type="fadeInLeft" 
+                                     data-animation-delay="300" style="animation-delay: 0.3s;">
+                                    <div class="fw-col-inner">
+                                        <div id="rev_slider_1_1_wrapper " class="rev_slider_wrapper fullwidthbanner-container " data-source="posts" 
+                                             style="margin: 0px auto; background: transparent; padding: 0px; height: 531px; overflow: visible;">
+                                            <div id="rev_slider_1_1 " class="rev_slider fullwidthabanner revslider-initialised tp-simpleresponsive rev_redraw_on_blurfocus" 
+                                                 style="margin-top: 0px; margin-bottom: 0px; height: 531px;" data-version="5.4.3.1 " data-slideactive="rs-109">
                                                 <ul class="tp-revslider-mainul " style="visibility: visible; display: block; overflow: hidden; width: 754px; height:
-                                                    100%; max-height: none; left: 0px; ">	<!-- SLIDE  -->
+                                                    100%; max-height: none; left: 0px; ">
                                                     <li data-index="rs-105 " data-transition="fade " data-slotamount="default " data-hideafterloop="0
                                                         " data-hideslideonmobile="off " data-easein="default " data-easeout="default " data-masterspeed="300 " data-thumb="https://demo.themefuse.com/hotel-booking-wordpress-theme/wp-content/uploads/2017/04/room-type-img-1-100x50.jpg
                                                         " data-rotate="0 " data-saveperformance="off " data-title="Beach Front Villas " data-param1=" " data-param2=" " data-param3="
@@ -407,18 +508,13 @@
                                                         in mind, and as a symbiotic extension of the surrounding environment. The property features six rental apartments.
                                                         " class="tp-revslider-slidesli " style="width: 100%; height: 100%; overflow: hidden; z-index: 18; visibility: hidden; opacity:
                                                         0; background-color: rgba(255, 255, 255, 0); ">
-                                                        <!-- MAIN IMAGE -->
-                                                        <div class="slotholder " style="position: absolute; top: 0px; left: 0px; z-index: 0; width: 100%; height: 100%; visibility:
-                                                             inherit; opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);
-                                                             "><!--Runtime Modification - Img tag is Still Available for SEO Goals in Source - <img src="https://demo.themefuse.com/hotel-booking-wordpress-theme/wp-content/uploads/2017/04/room-type-img-1.jpg
-                                                             " alt=" " title="room-type-img-1 " width="824 " height="529 " data-bgposition="right top " data-bgfit="normal
-                                                             " data-bgrepeat="no-repeat " class="rev-slidebg defaultimg " data-no-retina=" ">--><div class="tp-bgimg defaultimg
-                                                                                                                                                    " data-bgcolor="undefined " style="background-repeat: no-repeat; background-image: url(&quot;https://demo.themefuse.com/hotel-booking-wordpress-theme/wp-content/uploads/2017/04/room-type-img-1.jpg&quot;);
-                                                                                                                                                    background-position: right top; width: 100%; height: 100%; opacity: 1; visibility: inherit; z-index: 20;
-                                                                                                                                                    " src="https://demo.themefuse.com/hotel-booking-wordpress-theme/wp-content/uploads/2017/04/room-type-img-1.jpg "></div></div>
-                                                        <!-- LAYERS -->
+                                                        <div class="slotholder" style="position: absolute; top: 0px; left: 0px; z-index: 0; width: 100%; height: 100%; visibility:
+                                                             inherit; opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">
+                                                            <div class="tp-bgimg defaultimg" data-bgcolor="undefined" style="background-repeat: no-repeat; background-image: url(&quot;https://demo.themefuse.com/hotel-booking-wordpress-theme/wp-content/uploads/2017/04/room-type-img-1.jpg&quot;);background-position: right top; width: 100%; height: 100%; opacity: 1; visibility: inherit; z-index: 20;" src="https://demo.themefuse.com/hotel-booking-wordpress-theme/wp-content/uploads/2017/04/room-type-img-1.jpg ">
+                                                            
+                                                            </div>    
+                                                        </div>
                                                     </li>
-                                                    <!-- SLIDE  -->
                                                     <li data-index="rs-109 " data-transition="fade " data-slotamount="default " data-hideafterloop="0
                                                         " data-hideslideonmobile="off " data-easein="default " data-easeout="default " data-masterspeed="300 " data-thumb="https://demo.themefuse.com/hotel-booking-wordpress-theme/wp-content/uploads/2017/04/room-type-img-2-100x50.jpg
                                                         " data-rotate="0 " data-saveperformance="off " data-title="Cliff Resort " data-param1=" " data-param2=" " data-param3="
@@ -427,18 +523,16 @@
                                                         in mind, and as a symbiotic extension of the surrounding environment. The property features six rental apartments.
                                                         " class="tp-revslider-slidesli active-revslide " style="width: 100%; height: 100%; overflow: hidden; z-index: 20; visibility:
                                                         inherit; opacity: 1; background-color: rgba(255, 255, 255, 0); ">
-                                                        <!-- MAIN IMAGE -->
-                                                        <div class="slotholder " style="position: absolute; top: 0px; left: 0px; z-index: 0; width: 100%; height: 100%; visibility:
-                                                             inherit; opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);
-                                                             "><!--Runtime Modification - Img tag is Still Available for SEO Goals in Source - <img src="https://demo.themefuse.com/hotel-booking-wordpress-theme/wp-content/uploads/2017/04/room-type-img-2.jpg
-                                                             " alt=" " title="room-type-img-2 " width="824 " height="529 " data-bgposition="right top " data-bgfit="normal
-                                                             " data-bgrepeat="no-repeat " class="rev-slidebg defaultimg " data-no-retina=" ">--><div class="tp-bgimg defaultimg
-                                                                                                                                                    " data-bgcolor="undefined " style="background-repeat: no-repeat; background-image: url(&quot;https://demo.themefuse.com/hotel-booking-wordpress-theme/wp-content/uploads/2017/04/room-type-img-2.jpg&quot;);
-                                                                                                                                                    background-position: right top; width: 100%; height: 100%; opacity: 1; visibility: inherit; z-index: 20;
-                                                                                                                                                    " src="https://demo.themefuse.com/hotel-booking-wordpress-theme/wp-content/uploads/2017/04/room-type-img-2.jpg "></div></div>
-                                                        <!-- LAYERS -->
+                                                        <div class="slotholder " style="position: absolute; top: 0px; left: 0px; z-index: 0; width: 100%; height: 100%; visibility:inherit; opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">
+                                                            <div class="tp-bgimg defaultimg" data-bgcolor="undefined" 
+                                                                style="background-repeat: no-repeat; background-image: url(&quot;https://demo.themefuse.com/hotel-booking-wordpress-theme/wp-content/uploads/2017/04/room-type-img-2.jpg&quot;);
+                                                                       background-position: right top; width: 100%; height: 100%; opacity: 1; visibility: inherit; z-index: 20;" 
+                                                                       src="https://demo.themefuse.com/hotel-booking-wordpress-theme/wp-content/uploads/2017/04/room-type-img-2.jpg">
+                                                                       
+                                                            </div> 
+                                                        </div>
+
                                                     </li>
-                                                    <!-- SLIDE  -->
                                                     <li data-index="rs-110 " data-transition="fade " data-slotamount="default " data-hideafterloop="0
                                                         " data-hideslideonmobile="off " data-easein="default " data-easeout="default " data-masterspeed="300 " data-thumb="https://demo.themefuse.com/hotel-booking-wordpress-theme/wp-content/uploads/2017/04/room-type-img-3-100x50.jpg
                                                         " data-rotate="0 " data-saveperformance="off " data-title="Seaside Penthouse " data-param1=" " data-param2=" " data-param3="
@@ -446,14 +540,11 @@
                                                         " data-description="The Island House stands out among Nassau resorts, having been designed with both visitors and the local community
                                                         in mind, and as a symbiotic extension of the surrounding environment. The property features six rental apartments.
                                                         " class="tp-revslider-slidesli " style="width: 100%; height: 100%; overflow: hidden; ">
-                                                        <!-- MAIN IMAGE -->
-                                                        <div class="slotholder " style="position:absolute; top:0px; left:0px; z-index:0;width:100%;height:100%;
-                                                                                         "><!--Runtime Modification - Img tag is Still Available for SEO Goals in Source - <img src="https://demo.themefuse.com/hotel-booking-wordpress-theme/wp-content/uploads/2017/04/room-type-img-3.jpg
-                                                                                         " alt=" " title="room-type-img-3 " width="824 " height="529 " data-bgposition="right top " data-bgfit="normal
-                                                                                         " data-bgrepeat="no-repeat " class="rev-slidebg defaultimg " data-no-retina=" ">--><div class="tp-bgimg defaultimg
-                                                                                                                                                    " data-bgcolor="undefined " style="background-repeat: no-repeat; background-image: url(&quot;https://demo.themefuse.com/hotel-booking-wordpress-theme/wp-content/uploads/2017/04/room-type-img-3.jpg&quot;);
-                                                                                                                                                    background-position: right top; width: 100%; height: 100%; opacity: 0; " src="https://demo.themefuse.com/hotel-booking-wordpress-theme/wp-content/uploads/2017/04/room-type-img-3.jpg "></div></div>
-                                                        <!-- LAYERS -->
+                                                        <div class="slotholder " style="position:absolute; top:0px; left:0px; z-index:0;width:100%;height:100%;">
+                                                            <div class="tp-bgimg defaultimg" data-bgcolor="undefined " style="background-repeat: no-repeat; background-image: url(&quot;https://demo.themefuse.com/hotel-booking-wordpress-theme/wp-content/uploads/2017/04/room-type-img-3.jpg&quot;);background-position: right top; width: 100%; height: 100%; opacity: 0; " src="https://demo.themefuse.com/hotel-booking-wordpress-theme/wp-content/uploads/2017/04/room-type-img-3.jpg ">
+                                                           
+                                                            </div>
+                                                        </div>
                                                     </li>
                                                 </ul>
                                                 <script>var htmlDiv = document.getElementById("rs-plugin-settings-inline-css "); var htmlDivCss = " ";
@@ -507,11 +598,8 @@
                                                 }
                                             </script>
                                         </div>
-                                        <!-- END REVOLUTION SLIDER -->
                                     </div>
                                 </div>
-
-
 
                                 <div id="column-fd07ce58e27a774622a3bbd809346bbc" class="fw-col-sm-12 fw-col-md-4 tf-sh-fd07ce58e27a774622a3bbd809346bbc responsive-slider-1 fw-animated-element fw-col-no-padding"
                                      data-animation-type="fadeIn" data-animation-delay="300">
@@ -531,18 +619,20 @@
                                         </div>
                                         <div class="fw-divider-space  fw-custom-space  clearfix" style="height:30px;"></div>
                                         <div class="text-left">
-                                            <a href="#" target="_self" class="fw-btn tf-sh-40cce6ad5bf81f7bb3380143ad8fbc1a  fw-btn-md   fw-btn-2"
-                                               style="">
+                                            <a href="#" target="_self" class="fw-btn tf-sh-40cce6ad5bf81f7bb3380143ad8fbc1a fw-btn-md fw-btn-2" style="">
                                                 <span>
-                                                    VIEW MORE   </span>
+                                                    VIEW MORE   
+                                                </span>
                                             </a>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-
                         </div>
-                    </section>
+                    </section>-->
+                    
+                    
+<!--                    
                     <section id="section-5aff287e7ca2f" class=" fw-main-row-custom fw-section-no-padding  auto  fw-mobile-hide-element tf-sh-0bbb79461ef39de4262b975659c0d918 "
                              style="   ">
                         <div class="fw-container">
@@ -577,7 +667,6 @@
                                             </span>
                                         </div>
 
-
                                         <div class="fw-text-box tf-sh-f7c562f390b0231bed171bb514fe9443 ">
                                             <div class="fw-text-inner">
                                                 <p>
@@ -600,7 +689,6 @@
                                     </div>
                                 </div>
                             </div>
-
                             <div class="fw-row">
                                 <div id="column-1b076ce0d76e911909fad91017c9d5bc" class="fw-col-sm-12 tf-sh-1b076ce0d76e911909fad91017c9d5bc">
                                     <div class="fw-col-inner">
@@ -608,11 +696,12 @@
                                     </div>
                                 </div>
                             </div>
-
                         </div>
-                    </section>
-                    <section id="section-5aff287e7ef6e" class=" fw-main-row-custom fw-section-no-padding  auto  fw-desktop-hide-element fw-tablet-landscape-hide-element fw-tablet-hide-element tf-sh-8da2332a24233817826a8ff94ad582f4 "
-                             style="   ">
+                    </section>-->
+                    
+<!--                    
+                    <section id="section-5aff287e7ef6e" class="fw-main-row-custom fw-section-no-padding  auto  fw-desktop-hide-element fw-tablet-landscape-hide-element fw-tablet-hide-element tf-sh-8da2332a24233817826a8ff94ad582f4"
+                             style="">
                         <div class="fw-container">
                             <div class="fw-row">
                                 <div id="column-46d08a1efa29d582a93fa9cee2fab47a" class="fw-col-sm-12 tf-sh-46d08a1efa29d582a93fa9cee2fab47a">
@@ -628,8 +717,6 @@
                                     <div class="fw-col-inner">
                                         <div class="fw-heading fw-heading-left  tf-sh-a6d95f3cbce52dbb017f56ad924f5330">
                                             <h3 class="fw-special-title">Reasons to choose us:</h3>
-
-
                                         </div>
                                         <div class="fw-divider-space  fw-custom-space  clearfix" style="height:20px;"></div>
                                         <div class="fw-text-box tf-sh-3c19767930895dff01d0ba04ccbbbe8c ">
@@ -667,7 +754,6 @@
                                     </div>
                                 </div>
                             </div>
-
                             <div class="fw-row">
                                 <div id="column-02ea13180a9d343e96b3772638dcb014" class="fw-col-sm-12 tf-sh-02ea13180a9d343e96b3772638dcb014">
                                     <div class="fw-col-inner">
@@ -677,10 +763,10 @@
                             </div>
 
                         </div>
-                    </section>
+                    </section>-->
 
 
-                    <section id="section-5aff287e80e2f" class=" fw-main-row-custom fw-section-no-padding  auto  tf-sh-4a8d739c184275eb4edf2c9459b28243 "
+<!--                    <section id="section-5aff287e80e2f" class=" fw-main-row-custom fw-section-no-padding  auto  tf-sh-4a8d739c184275eb4edf2c9459b28243 "
                              style="   ">
                         <div class="fw-container">
                             <div class="fw-row">
@@ -700,6 +786,7 @@
 
                         </div>
                     </section>
+
                     <section id="section-5aff287e81a42" class=" fw-main-row-custom fw-section-no-padding  auto custom-shape  tf-sh-46c7477081e324bf4521b1bedcf6b856 "
                              style="background-color:#efe3f4;   ">
                         <div class="custom-shape-wrap custom-shape-top-type-2">
@@ -844,8 +931,6 @@
                                     <div class="fw-col-inner">
                                         <div class="fw-heading fw-heading-left  tf-sh-d851da5aa90b81797cc45a73902b21f2">
                                             <h4 class="fw-special-title">Spa Treatments</h4>
-
-
                                         </div>
                                         <div class="fw-divider tf-sh-31374b45074f2e47383e0f657282fee8  fw-divider-align-left fw-line-solid fw-divider-line  " style="width:275px; padding-top:0px; margin-bottom:20px; border-color:#cbc3d5;"></div>
                                         <div class="fw-text-box tf-sh-57ce2fcea3597c80909f7e8f1ce6536c ">
@@ -882,68 +967,69 @@
                         <div class="custom-shape-wrap custom-shape-bottom-type-3">
                             <div class="shape-container">
                                 <svg width="100%" height="131px">
-                                <defs>
-                                <pattern id="custom-shape-bottom-type-3-46c7477081e324bf4521b1bedcf6b856" preserveAspectRatio="none" style="background-repeat: no-repeat;"
-                                         patternUnits="userSpaceOnUse" x="0" y="0" width="100%" height="131px" viewBox="0 0 100 130">
-                                    <polygon fill="#ffffff"  points="100,0 100,130 -1,130 "></polygon></pattern></defs><rect x="0 " y="0 " width="100%
-                                                                                                                          " height="131px " fill="url(#custom-shape-bottom-type-3-46c7477081e324bf4521b1bedcf6b856) "></rect></svg></div></div></section>
+                                    <defs>
+                                    <pattern id="custom-shape-bottom-type-3-46c7477081e324bf4521b1bedcf6b856" preserveAspectRatio="none"
+                                             style="background-repeat: no-repeat;"patternUnits="userSpaceOnUse" x="0" y="0" width="100%" height="131px"
+                                             viewBox="0 0 100 130">
+                                        <polygon fill="#ffffff"  points="100,0 100,130 -1,130 "></polygon>
+                                    </pattern>
+                                    </defs>
+                                    <rect x="0" y="0" width="100%" height="131px" fill="url(#custom-shape-bottom-type-3-46c7477081e324bf4521b1bedcf6b856) "></rect>
+                                </svg>
+                            </div>
+                        </div>
+                    </section>-->
 
-                    <section  id="section-5aff287e86bf4 " class=" fw-main-row-custom fw-section-no-padding auto tf-sh-7374c53fa5040803ef1269e9acabc7dd
-                              "  style=" "  >
-                        <div class="fw-container " >
+<!--                    <section  id="section-5aff287e86bf4" 
+                              class=" fw-main-row-custom fw-section-no-padding auto tf-sh-7374c53fa5040803ef1269e9acabc7dd"  style=""  >
+                        <div class="fw-container" >
                             <div class="fw-container" style="display: block;">
                                 <div class="fw-row">
                                     <div id="column-92dc58b6636acf6a001e8b0689644672" class="fw-col-sm-3 fw-mobile-hide-element tf-sh-92dc58b6636acf6a001e8b0689644672">
                                         <div class="fw-col-inner">
                                         </div>
-                                    </div><div id="column-6cae6a5a4055b2f33e61e02c4fd5ed43" class="fw-col-sm-9 tf-sh-6cae6a5a4055b2f33e61e02c4fd5ed43  fw-animated-element animated fadeInUp fill-mode-none" data-animation-type="fadeInUp" data-animation-delay="300" style="animation-delay: 0.3s;">
+                                    </div>
+                                    <div id="column-6cae6a5a4055b2f33e61e02c4fd5ed43" class="fw-col-sm-9 tf-sh-6cae6a5a4055b2f33e61e02c4fd5ed43  fw-animated-element animated fadeInUp fill-mode-none" data-animation-type="fadeInUp" data-animation-delay="300" style="animation-delay: 0.3s;">
                                         <div class="fw-col-inner">
                                             <div class="fw-heading fw-heading-right  tf-sh-7bfb39b07a632e027d0b2148ab66ed95">
                                                 <h2 class="fw-special-title">Amenities &amp; Activities</h2>
-
-
-                                            </div>	<div class="fw-divider tf-sh-d6bbb0d96393c83ec88de59fac4c75af  fw-divider-align-right fw-line-solid fw-divider-line   fw_theme_border_only_color_2" style="width:110px; padding-top:0px; margin-bottom:40px; "></div>
+                                            </div>	
+                                            <div class="fw-divider tf-sh-d6bbb0d96393c83ec88de59fac4c75af  fw-divider-align-right fw-line-solid fw-divider-line   fw_theme_border_only_color_2" style="width:110px; padding-top:0px; margin-bottom:40px; "></div>
                                         </div>
-                                    </div></div>
+                                    </div>
+                                </div>
 
                                 <div class="fw-row" style="display: block;">
                                     <div id="column-f5b96c5548a477ffad6f3c5bece898b8" class="fw-col-sm-12 tf-sh-f5b96c5548a477ffad6f3c5bece898b8 responsive-slider-amenities fw-animated-element animated fadeInUp fill-mode-none" data-animation-type="fadeInUp" data-animation-delay="300" style="animation-delay: 0.3s;">
                                         <div class="fw-col-inner">
                                             <link href="https://fonts.googleapis.com/css?family=Lato:700%2C400" rel="stylesheet" property="stylesheet" type="text/css" media="all">
                                             <div id="rev_slider_2_2_wrapper" class="rev_slider_wrapper fullwidthbanner-container" data-source="posts" style="margin: 0px auto; background: transparent; padding: 0px; height: 576px; overflow: visible;">
-                                                <!-- START REVOLUTION SLIDER 5.4.3.1 auto mode -->
                                                 <div id="rev_slider_2_2" class="rev_slider fullwidthabanner revslider-initialised tp-simpleresponsive rev_redraw_on_blurfocus" style="margin-top: 0px; margin-bottom: 0px; height: 576px;" data-version="5.4.3.1" data-slideactive="rs-135">
-                                                    <ul class="tp-revslider-mainul" style="visibility: visible; display: block; overflow: hidden; width: 1070px; height: 100%; max-height: none; left: 0px;">	<!-- SLIDE  -->
+                                                    <ul class="tp-revslider-mainul" style="visibility: visible; display: block; overflow: hidden; width: 1070px; height: 100%; max-height: none; left: 0px;">
                                                         <li data-index="rs-131" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300" data-thumb="https://demo.themefuse.com/hotel-booking-wordpress-theme/wp-content/uploads/2017/04/amenities-slider-1-100x50.jpg" data-rotate="0" data-saveperformance="off" data-title="Beach Dining" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="24 HOUR ROOM SERVICE" class="tp-revslider-slidesli" style="width: 100%; height: 100%; overflow: hidden; z-index: 18; visibility: hidden; opacity: 0; background-color: rgba(255, 255, 255, 0);">
-                                                            <!-- MAIN IMAGE -->
-                                                            <div class="slotholder" style="position: absolute; top: 0px; left: 0px; z-index: 0; width: 100%; height: 100%; visibility: inherit; opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);"><!--Runtime Modification - Img tag is Still Available for SEO Goals in Source - <img src="https://demo.themefuse.com/hotel-booking-wordpress-theme/wp-content/uploads/2017/04/amenities-slider-1.jpg" alt="" title="amenities-slider-1" width="937" height="511" data-bgposition="center top" data-bgfit="normal" data-bgrepeat="no-repeat" class="rev-slidebg defaultimg" data-no-retina="">--><div class="tp-bgimg defaultimg " data-bgcolor="undefined" style="background-repeat: no-repeat; background-image: url(&quot;https://demo.themefuse.com/hotel-booking-wordpress-theme/wp-content/uploads/2017/04/amenities-slider-1.jpg&quot;); background-position: center top; width: 100%; height: 100%; opacity: 1; visibility: inherit; z-index: 20;" src="https://demo.themefuse.com/hotel-booking-wordpress-theme/wp-content/uploads/2017/04/amenities-slider-1.jpg"></div></div>
-                                                            <!-- LAYERS -->
-
-                                                            <!-- LAYER NR. 1 -->
+                                                            <div class="slotholder" style="position: absolute; top: 0px; left: 0px; z-index: 0; width: 100%; height: 100%; visibility: inherit; opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">
+                                                                <div class="tp-bgimg defaultimg " data-bgcolor="undefined" style="background-repeat: no-repeat; background-image: url(&quot;https://demo.themefuse.com/hotel-booking-wordpress-theme/wp-content/uploads/2017/04/amenities-slider-1.jpg&quot;); background-position: center top; width: 100%; height: 100%; opacity: 1; visibility: inherit; z-index: 20;" src="https://demo.themefuse.com/hotel-booking-wordpress-theme/wp-content/uploads/2017/04/amenities-slider-1.jpg">
+                                                                                                                                                                                                        
+                                                                </div>
+                                                            </div>
                                                             <div class="tp-parallax-wrap" style="position: absolute; display: block; visibility: hidden; left: 771px; top: 529px; z-index: 5;"><div class="tp-loop-wrap" style="position:absolute;display:block;;"><div class="tp-mask-wrap" style="position: absolute; display: block; overflow: visible;"><div class="tp-caption   tp-resizeme" id="slide-131-layer-1" data-x="['right','right','right','right']" data-hoffset="['65','73','73','60']" data-y="['bottom','bottom','bottom','bottom']" data-voffset="['25','120','120','110']" data-fontsize="['13','13','13','15']" data-lineheight="['22','22','22','24']" data-width="none" data-height="none" data-whitespace="nowrap" data-type="text" data-responsive_offset="on" data-frames="[{&quot;delay&quot;:0,&quot;speed&quot;:300,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:300,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;opacity:0;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]" data-textalign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 5; white-space: nowrap; font-size: 13px; line-height: 22px; font-weight: 700; color: rgb(162, 163, 169); font-family: Lato; text-transform: uppercase; letter-spacing: 4px; visibility: inherit; transition: none; text-align: inherit; border-width: 0px; margin: 0px; padding: 0px; min-height: 0px; min-width: 0px; max-height: none; max-width: none; opacity: 0.0001; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transform-origin: 50% 50% 0px;">24 HOUR ROOM SERVICE </div></div></div></div>
                                                         </li>
-                                                        <!-- SLIDE  -->
                                                         <li data-index="rs-135" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300" data-thumb="https://demo.themefuse.com/hotel-booking-wordpress-theme/wp-content/uploads/2017/04/amenities-slider-2-100x50.jpg" data-rotate="0" data-saveperformance="off" data-title="Helicopter Ride" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="OPTIONAL HELI RIDES" class="tp-revslider-slidesli active-revslide" style="width: 100%; height: 100%; overflow: hidden; z-index: 20; visibility: inherit; opacity: 1; background-color: rgba(255, 255, 255, 0);">
-                                                            <!-- MAIN IMAGE -->
-                                                            <div class="slotholder" style="position: absolute; top: 0px; left: 0px; z-index: 0; width: 100%; height: 100%; visibility: inherit; opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);"><!--Runtime Modification - Img tag is Still Available for SEO Goals in Source - <img src="https://demo.themefuse.com/hotel-booking-wordpress-theme/wp-content/uploads/2017/04/amenities-slider-2.jpg" alt="" title="amenities-slider-2" width="937" height="511" data-bgposition="center top" data-bgfit="normal" data-bgrepeat="no-repeat" class="rev-slidebg defaultimg" data-no-retina="">--><div class="tp-bgimg defaultimg " data-bgcolor="undefined" style="background-repeat: no-repeat; background-image: url(&quot;https://demo.themefuse.com/hotel-booking-wordpress-theme/wp-content/uploads/2017/04/amenities-slider-2.jpg&quot;); background-position: center top; width: 100%; height: 100%; opacity: 1; visibility: inherit; z-index: 20;" src="https://demo.themefuse.com/hotel-booking-wordpress-theme/wp-content/uploads/2017/04/amenities-slider-2.jpg"></div></div>
-                                                            <!-- LAYERS -->
-
-                                                            <!-- LAYER NR. 2 -->
+                                                            <div class="slotholder" style="position: absolute; top: 0px; left: 0px; z-index: 0; width: 100%; height: 100%; visibility: inherit; opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">
+                                                                <div class="tp-bgimg defaultimg " data-bgcolor="undefined" style="background-repeat: no-repeat; background-image: url(&quot;https://demo.themefuse.com/hotel-booking-wordpress-theme/wp-content/uploads/2017/04/amenities-slider-2.jpg&quot;); background-position: center top; width: 100%; height: 100%; opacity: 1; visibility: inherit; z-index: 20;" src="https://demo.themefuse.com/hotel-booking-wordpress-theme/wp-content/uploads/2017/04/amenities-slider-2.jpg"></div>
+                                                            </div>
                                                             <div class="tp-parallax-wrap" style="position: absolute; display: block; visibility: visible; left: 793px; top: 529px; z-index: 5;"><div class="tp-loop-wrap" style="position:absolute;display:block;;"><div class="tp-mask-wrap" style="position: absolute; display: block; overflow: visible;"><div class="tp-caption   tp-resizeme" id="slide-135-layer-1" data-x="['right','right','right','right']" data-hoffset="['65','73','73','60']" data-y="['bottom','bottom','bottom','bottom']" data-voffset="['25','120','120','110']" data-fontsize="['13','13','13','15']" data-lineheight="['22','22','22','24']" data-width="none" data-height="none" data-whitespace="nowrap" data-type="text" data-responsive_offset="on" data-frames="[{&quot;delay&quot;:0,&quot;speed&quot;:300,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:300,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;opacity:0;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]" data-textalign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 5; white-space: nowrap; font-size: 13px; line-height: 22px; font-weight: 700; color: rgb(162, 163, 169); font-family: Lato; text-transform: uppercase; letter-spacing: 4px; visibility: inherit; transition: none; text-align: inherit; border-width: 0px; margin: 0px; padding: 0px; min-height: 0px; min-width: 0px; max-height: none; max-width: none; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transform-origin: 50% 50% 0px;">OPTIONAL HELI RIDES </div></div></div></div>
                                                         </li>
-                                                        <!-- SLIDE  -->
                                                         <li data-index="rs-136" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300" data-thumb="https://demo.themefuse.com/hotel-booking-wordpress-theme/wp-content/uploads/2017/04/amenities-slider-3-100x50.jpg" data-rotate="0" data-saveperformance="off" data-title="Scuba Diving" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="DIVING LESSONS INCLUDED" class="tp-revslider-slidesli" style="width: 100%; height: 100%; overflow: hidden;">
-                                                            <!-- MAIN IMAGE -->
-                                                            <div class="slotholder" style="position:absolute; top:0px; left:0px; z-index:0;width:100%;height:100%;"><!--Runtime Modification - Img tag is Still Available for SEO Goals in Source - <img src="https://demo.themefuse.com/hotel-booking-wordpress-theme/wp-content/uploads/2017/04/amenities-slider-3.jpg" alt="" title="amenities-slider-3" width="937" height="511" data-bgposition="center top" data-bgfit="normal" data-bgrepeat="no-repeat" class="rev-slidebg defaultimg" data-no-retina="">--><div class="tp-bgimg defaultimg " data-bgcolor="undefined" style="background-repeat: no-repeat; background-image: url(&quot;https://demo.themefuse.com/hotel-booking-wordpress-theme/wp-content/uploads/2017/04/amenities-slider-3.jpg&quot;); background-position: center top; width: 100%; height: 100%; opacity: 0;" src="https://demo.themefuse.com/hotel-booking-wordpress-theme/wp-content/uploads/2017/04/amenities-slider-3.jpg"></div></div>
-                                                            <!-- LAYERS -->
-
-                                                            <!-- LAYER NR. 3 -->
+                                                            <div class="slotholder" style="position:absolute; top:0px; left:0px; z-index:0;width:100%;height:100%;">
+                                                                <div class="tp-bgimg defaultimg " data-bgcolor="undefined" style="background-repeat: no-repeat; background-image: url(&quot;https://demo.themefuse.com/hotel-booking-wordpress-theme/wp-content/uploads/2017/04/amenities-slider-3.jpg&quot;); background-position: center top; width: 100%; height: 100%; opacity: 0;" src="https://demo.themefuse.com/hotel-booking-wordpress-theme/wp-content/uploads/2017/04/amenities-slider-3.jpg">
+                                                                
+                                                                </div>      
+                                                            </div>
                                                             <div class="tp-parallax-wrap " style=" position:absolute;display:block;;visibility:hidden"><div class="tp-loop-wrap" style="position:absolute;display:block;;"><div class="tp-mask-wrap" style="position:absolute;display:block;;"><div class="tp-caption   tp-resizeme" id="slide-136-layer-1" data-x="['right','right','right','right']" data-hoffset="['65','73','73','60']" data-y="['bottom','bottom','bottom','bottom']" data-voffset="['25','120','120','110']" data-fontsize="['13','13','13','15']" data-lineheight="['22','22','22','24']" data-width="none" data-height="none" data-whitespace="nowrap" data-type="text" data-responsive_offset="on" data-frames="[{&quot;delay&quot;:0,&quot;speed&quot;:300,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:300,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;opacity:0;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]" data-textalign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 5; white-space: nowrap; font-size: 13px; line-height: 22px; font-weight: 700; color: rgb(162, 163, 169); font-family: Lato; text-transform: uppercase; letter-spacing: 4px; visibility: hidden;">DIVING LESSONS INCLUDED </div></div></div></div>
                                                         </li>
                                                     </ul>
                                                     <div style="left: 0px;" class="tp-static-layers">
-
-                                                        <!-- LAYER NR. 4 -->
                                                         <div class="tp-parallax-wrap" style="position: absolute; display: block; visibility: visible; left: -78px; top: 238px; z-index: 6;"><div class="tp-loop-wrap" style="position:absolute;display:block;;"><div class="tp-mask-wrap" style="position: absolute; display: block; overflow: visible;"><div class="tp-caption rev-btn  tp-static-layer tp-withaction rs-hover-ready" id="slider-2-layer-5" data-x="['left','left','left','left']" data-hoffset="['-78','-178','-178','-158']" data-y="['middle','middle','middle','middle']" data-voffset="['-32','-92','-92','-82']" data-width="none" data-height="none" data-whitespace="nowrap" data-type="button" data-actions="[{&quot;event&quot;:&quot;click&quot;,&quot;action&quot;:&quot;simplelink&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;url&quot;:&quot;https:\/\/demo.themefuse.com\/hotel-booking-wordpress-theme\/?page_id=18&quot;,&quot;delay&quot;:&quot;&quot;}]" data-responsive_offset="on" data-responsive="off" data-startslide="0" data-endslide="2" data-frames="[{&quot;delay&quot;:0,&quot;speed&quot;:300,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;rZ:270;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:300,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;opacity:0;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;frame&quot;:&quot;hover&quot;,&quot;speed&quot;:&quot;200&quot;,&quot;ease&quot;:&quot;Power2.easeIn&quot;,&quot;to&quot;:&quot;o:1;rX:0;rY:0;rZ:270;z:0;&quot;,&quot;style&quot;:&quot;c:rgba(174,116,198,1);bc:rgba(189,161,198,0.70);bw:1 1 1 1;border-width:0px 0px 1px 0px;letter-spacing:4px;padding:10px 5px;transition:color liniar 0.2s;&quot;}]" data-textalign="['inherit','inherit','inherit','inherit']" data-paddingtop="[10,10,10,10]" data-paddingright="[5,5,5,5]" data-paddingbottom="[10,10,10,10]" data-paddingleft="[5,5,5,5]" style="z-index: 6; white-space: nowrap; font-size: 12px; line-height: 14px; font-weight: 400; color: rgb(145, 149, 153); font-family: Lato; border-color: rgb(225, 226, 229); border-style: solid; border-width: 0px 0px 1px; outline: none; box-shadow: none; box-sizing: border-box; letter-spacing: 4px; padding: 10px 5px; cursor: pointer; visibility: inherit; transition: none; text-align: inherit; margin: 0px; min-height: 0px; min-width: 0px; max-height: none; max-width: none; opacity: 1; transform: matrix3d(0, -1, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transform-origin: 50% 50% 0px;">VIEW ALL ACTIVITIES </div></div></div></div>
                                                     </div>
                                                     <script>var htmlDiv = document.getElementById("rs-plugin-settings-inline-css"); var htmlDivCss = "";
@@ -966,85 +1052,6 @@
                                                     <div class="tp-leftarrow tparrows persephone" style="top: 50%; transform: matrix(1, 0, 0, 1, -40, -71); left: 100%;"></div>
                                                     <div class="tp-rightarrow tparrows persephone" style="top: 50%; transform: matrix(1, 0, 0, 1, -40, -32); left: 100%;"></div>
                                                 </div>
-                                                        <!-- <script>var htmlDiv = document.getElementById("rs-plugin-settings-inline-css"); var htmlDivCss="";
-                                                                                        if(htmlDiv) {
-                                                                                                htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
-                                                                                        }else{
-                                                                                                var htmlDiv = document.createElement("div");
-                                                                                                htmlDiv.innerHTML = "<style>" + htmlDivCss + "</style>";
-                                                                                                document.getElementsByTagName("head")[0].appendChild(htmlDiv.childNodes[0]);
-                                                                                        }
-                                                                                </script>
-                                                                        <script type="text/javascript">
-                                                        setREVStartSize({c: jQuery('#rev_slider_2_2'), responsiveLevels: [1240,1024,1024,480], gridwidth: [1070,1024,778,500], gridheight: [576,768,960,720], sliderLayout: 'auto'});
-                                                                                
-                                                        var revapi2,
-                                                                tpj=jQuery;
-                                                                                
-                                                        tpj(document).ready(function() {
-                                                                if(tpj("#rev_slider_2_2").revolution == undefined){
-                                                                        revslider_showDoubleJqueryError("#rev_slider_2_2");
-                                                                }else{
-                                                                        revapi2 = tpj("#rev_slider_2_2").show().revolution({
-                                                                                sliderType:"standard",
-                                                                                jsFileLocation:"//demo.themefuse.com/hotel-booking-wordpress-theme/wp-content/plugins/revslider/public/assets/js/",
-                                                                                sliderLayout:"auto",
-                                                                                dottedOverlay:"none",
-                                                                                delay:9000,
-                                                                                navigation: {
-                                                                                        keyboardNavigation:"off",
-                                                                                        keyboard_direction: "horizontal",
-                                                                                        mouseScrollNavigation:"off",
-                                                                                                                 mouseScrollReverse:"default",
-                                                                                        onHoverStop:"off",
-                                                                                        arrows: {
-                                                                                                style:"persephone",
-                                                                                                enable:true,
-                                                                                                hide_onmobile:false,
-                                                                                                hide_onleave:false,
-                                                                                                tmp:'',
-                                                                                                left: {
-                                                                                                        h_align:"right",
-                                                                                                        v_align:"center",
-                                                                                                        h_offset:0,
-                                                                                                        v_offset:-51
-                                                                                                },
-                                                                                                right: {
-                                                                                                        h_align:"right",
-                                                                                                        v_align:"center",
-                                                                                                        h_offset:0,
-                                                                                                        v_offset:-12
-                                                                                                }
-                                                                                        }
-                                                                                },
-                                                                                responsiveLevels:[1240,1024,1024,480],
-                                                                                visibilityLevels:[1240,1024,1024,480],
-                                                                                gridwidth:[1070,1024,778,500],
-                                                                                gridheight:[576,768,960,720],
-                                                                                lazyType:"none",
-                                                                                shadow:0,
-                                                                                spinner:"spinner0",
-                                                                                stopLoop:"off",
-                                                                                stopAfterLoops:-1,
-                                                                                stopAtSlide:-1,
-                                                                                shuffle:"off",
-                                                                                autoHeight:"off",
-                                                                                disableProgressBar:"on",
-                                                                                hideThumbsOnMobile:"off",
-                                                                                hideSliderAtLimit:0,
-                                                                                hideCaptionAtLimit:0,
-                                                                                hideAllCaptionAtLilmit:0,
-                                                                                debugMode:false,
-                                                                                fallbacks: {
-                                                                                        simplifyAll:"off",
-                                                                                        nextSlideOnWindowFocus:"off",
-                                                                                        disableFocusListener:false,
-                                                                                }
-                                                                        });
-                                                                }
-                                                                
-                                                        });	/*ready*/
-                                                        </script> -->
                                                 <script>
                                                     var htmlDivCss = unescape(".persephone.tparrows%20%7B%0A%09cursor%3Apointer%3B%0A%09background%3Argba%28201%2C201%2C201%2C0%29%3B%0A%09width%3A40px%3B%0A%09height%3A40px%3B%0A%09position%3Aabsolute%3B%0A%09display%3Ablock%3B%0A%09z-index%3A100%3B%0A%20%20%20%20border%3A1px%20solid%20rgba%28160%2C%20160%2C%20160%2C%201%29%3B%0A%7D%0A.persephone.tparrows%3Ahover%20%7B%0A%09background%3Argba%280%2C0%2C0%2C0.15%29%3B%0A%7D%0A.persephone.tparrows%3Abefore%20%7B%0A%09font-family%3A%20%22revicons%22%3B%0A%09font-size%3A12px%3B%0A%09color%3A%20rgb%2884%2C%2084%2C%2084%29%3B%0A%09display%3Ablock%3B%0A%09line-height%3A%2040px%3B%0A%09text-align%3A%20center%3B%0A%7D%0A.persephone.tparrows.tp-leftarrow%3Abefore%20%7B%0A%09content%3A%20%22%5Ce824%22%3B%0A%7D%0A.persephone.tparrows.tp-rightarrow%3Abefore%20%7B%0A%09content%3A%20%22%5Ce825%0A%22%3B%0A%7D%0A%0A%0A");
                                                     var htmlDiv = document.getElementById('rs-plugin-settings-inline-css');
@@ -1056,27 +1063,26 @@
                                                         document.getElementsByTagName('head')[0].appendChild(htmlDiv.childNodes[0]);
                                                     }
                                                 </script>
-                                            </div><!-- END REVOLUTION SLIDER -->	</div>
-                                    </div></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
       
-                                
-
                                 <div class="fw-row">
                                     <div id="column-99735df637de4b52ed06a7913ff6df96" class="fw-col-sm-12 fw-mobile-hide-element tf-sh-99735df637de4b52ed06a7913ff6df96">
                                         <div class="fw-col-inner">
-                                            <div class="fw-divider-space  fw-custom-space  fw-mobile-hide-element clearfix" style="height:20px;"></div>	</div>
-                                    </div></div>
-
+                                            <div class="fw-divider-space  fw-custom-space  fw-mobile-hide-element clearfix" style="height:20px;">
+                                            
+                                            </div>	
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
-
                         </div>
-                    </section>
+                    </section>-->
 
-
-
-
-                    <section id="section-5aff287e98ff0" class=" fw-main-row-custom fw-section-no-padding  auto  tf-sh-166c275125d9280cc11204658404b560 "
-                             style="   ">
+                    <section id="section-5aff287e98ff0"  class="fw-main-row-custom fw-section-no-padding  auto  tf-sh-166c275125d9280cc11204658404b560"
+                             style="display: none !important;">
                         <div class="fw-container">
                             <div class="fw-row">
                                 <div id="column-8867899e6ac0412a72ba1957bbb6dca9" class="fw-col-sm-12 fw-col-md-9 tf-sh-8867899e6ac0412a72ba1957bbb6dca9 testimonial-adjustments fw-animated-element"
@@ -1419,17 +1425,20 @@
                                         <div class="menu-widget-menu-1-container">
                                             <ul id="menu-widget-menu-1" class="menu">
                                                 <li id="menu-item-160" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-160">
-                                                    <a href="#">ABOUT</a>
+                                                    <a href="/about_client">ABOUT US</a>
                                                 </li>
-                                                <li id="menu-item-159" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-159">
+<!--                                                <li id="menu-item-159" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-159">
                                                     <a href="/rooms_client">ROOMS</a>
-                                                </li>
-                                                <li id="menu-item-158" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-158">
-                                                    <a href="/package_client">DINING</a>
-                                                </li>
-                                                <li id="menu-item-157" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-157">
+                                                </li>-->
+<!--                                                <li id="menu-item-158" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-158">
+                                                    <a href="/package_client">PACKAGE</a>
+                                                </li>-->
+<!--                                                <li id="menu-item-158" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-158">
+                                                    <a href="/about_client">ABOUT US</a>
+                                                </li>-->
+<!--                                                <li id="menu-item-157" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-157">
                                                     <a href="/day_client">ATTRACTIONS</a>
-                                                </li>
+                                                </li>-->
                                             </ul>
                                         </div>
                                     </aside>

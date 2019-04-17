@@ -83,19 +83,22 @@
                     <li id="menu-item-42" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home">
                         <a href="/">HOMEPAGE</a>
                     </li>
-                    <li id="menu-item-41" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children">
+<!--                    <li id="menu-item-41" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children">
                         <a href="/rooms_client">ROOMS</a>
                         <ul class="sub-menu">
                             <li id="menu-item-515" class="menu-item menu-item-type-post_type menu-item-object-page">
                                 <a href="/rooms_client">ROOM DETAILS</a>
                             </li>
                         </ul>
-                    </li>
+                    </li>-->
                     <li id="menu-item-40" class="menu-item menu-item-type-post_type menu-item-object-page">
-                        <a href="/package_client">DINING</a>
+                        <a href="/package_client">PACKAGE</a>
                     </li>
                     <li id="menu-item-39" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-18 current_page_item">
                         <a href="/day_client">ACTIVITIES</a>
+                    </li>
+                    <li id="menu-item-39" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-18 current_page_item">
+                        <a href="/about_client">ABOUT US</a>
                     </li>
                     <li id="menu-item-38" class="menu-item menu-item-type-post_type menu-item-object-page">
                         <a href="/gallery_client">GALLERY</a>
@@ -127,19 +130,22 @@
                                     <li id="menu-item-42" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-42">
                                         <a href="/">HOMEPAGE</a>
                                     </li>
-                                    <li id="menu-item-41" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-41">
+<!--                                    <li id="menu-item-41" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-41">
                                         <a href="/rooms_client">ROOMS</a>
                                         <ul class="sub-menu">
                                             <li id="menu-item-515" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-515">
                                                 <a href="/rooms_client">ROOM DETAILS</a>
                                             </li>
                                         </ul>
-                                    </li>
+                                    </li>-->
                                     <li id="menu-item-40" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-40">
-                                        <a href="/package_client">DINING</a>
+                                        <a href="/package_client">PACKAGE</a>
                                     </li>
                                     <li id="menu-item-39" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-18 current_page_item menu-item-39">
                                         <a href="/day_client">ACTIVITIES</a>
+                                    </li>
+                                    <li id="menu-item-39" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-18 current_page_item menu-item-39">
+                                        <a href="/about_client">ABOUT US</a>
                                     </li>
                                     <li id="menu-item-38" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38">
                                         <a href="/gallery_client">GALLERY</a>
@@ -498,11 +504,11 @@
                                                 <li id="menu-item-160" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-160">
                                                     <a href="#" >ABOUT</a>
                                                 </li>
-                                                <li id="menu-item-159" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-159">
+<!--                                                <li id="menu-item-159" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-159">
                                                     <a href="/rooms_client" >ROOMS</a>
-                                                </li>
+                                                </li>-->
                                                 <li id="menu-item-158" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-158">
-                                                    <a href="/package_client" >DINING</a>
+                                                    <a href="/package_client" >PACKAGE</a>
                                                 </li>
                                                 <li id="menu-item-157" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-18 current_page_item menu-item-157 ">
                                                     <a href="/day_client" >ATTRACTIONS</a>

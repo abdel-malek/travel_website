@@ -20,6 +20,9 @@ Route::get('/gallery_client', 'PageController@gallery');
 Route::get('/rooms_client', 'PageController@rooms');
 Route::get('/package_client', 'PageController@package');
 Route::get('/offers_client', 'PageController@offers');
+Route::get('/why_syria_client', 'PageController@why_syria');
+Route::get('/about_client', 'PageController@about');
+Route::get('/our_services_client', 'PageController@our_services');
 
 Route::get('/admin-login', 'LoginAdminController@index');
 Route::post('/login', 'LoginAdminController@login');

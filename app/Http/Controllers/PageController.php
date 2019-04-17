@@ -14,16 +14,26 @@ class PageController extends Controller
         $social_media = SocialMedia::all();
         return view('client/pages/index')->with('social_media',$social_media);
     }
-     public function contact_us(){
+    public function contact_us(){
         return view('client/pages/contact_us');
     } 
-         public function rooms(){
+    public function rooms(){
         return view('client/pages/rooms');
     }
-          public function package(){
+    public function package(){
         return view('client/pages/package');
     }
-           public function offers(){
+    public function why_syria(){
+        return view('client/pages/why_syria');
+    }
+    public function our_services(){
+        return view('client/pages/our_services');
+    }
+    
+    public function about(){
+        return view('client/pages/about');
+    }
+    public function offers(){
         return view('client/pages/offers');
     } 
     public function contact_us_store(Request $request){

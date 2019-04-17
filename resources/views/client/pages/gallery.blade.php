@@ -82,29 +82,32 @@ if (e.responsiveLevels && (jQuery.each(e.responsiveLevels, function(e, f){f > i 
                     <li id="menu-item-42" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home">
                         <a href="/">HOMEPAGE</a>
                     </li>
-                    <li id="menu-item-41" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children">
+<!--                    <li id="menu-item-41" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children">
                         <a href="/rooms_client">ROOMS</a>
                         <ul  class="sub-menu">
                             <li id="menu-item-515" class="menu-item menu-item-type-post_type menu-item-object-page">
                                 <a href="/rooms_client">ROOM DETAILS</a>
                             </li>
                         </ul>
-                    </li>
-                    <li id="menu-item-40" class="menu-item menu-item-type-post_type menu-item-object-page">
-                        <a href="/package_client">DINING</a>
+                    </li>-->
+<!--                    <li id="menu-item-40" class="menu-item menu-item-type-post_type menu-item-object-page">
+                        <a href="/package_client">PACKAGE</a>
                     </li>
                     <li id="menu-item-39" class="menu-item menu-item-type-post_type menu-item-object-page">
                         <a href="/day_client">ACTIVITIES</a>
+                    </li>-->
+                    <li id="menu-item-39" class="menu-item menu-item-type-post_type menu-item-object-page">
+                        <a href="/about_client">ABOUT US</a>
                     </li>
                     <li id="menu-item-38" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-21 current_page_item">
                         <a href="/gallery_client">GALLERY</a>
                     </li>
-                    <li id="menu-item-37" class="menu-item menu-item-type-post_type menu-item-object-page">
+<!--                    <li id="menu-item-37" class="menu-item menu-item-type-post_type menu-item-object-page">
                         <a href="/offers_client">OFFERS</a>
                     </li>
                     <li id="menu-item-36" class="menu-item menu-item-type-post_type menu-item-object-page">
                         <a href="/contact_us">CONTACT</a>
-                    </li>
+                    </li>-->
                 </ul>
             </nav>
             <header class="fw-header" itemscope="itemscope" itemtype="https://schema.org/WPHeader">
@@ -124,29 +127,32 @@ if (e.responsiveLevels && (jQuery.each(e.responsiveLevels, function(e, f){f > i 
                                     <li id="menu-item-42" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-42">
                                         <a href="/" >HOMEPAGE</a>
                                     </li>
-                                    <li id="menu-item-41" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-41">
+<!--                                    <li id="menu-item-41" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-41">
                                         <a href="/rooms_client" >ROOMS</a>
                                         <ul class="sub-menu">
                                             <li id="menu-item-515" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-515">
                                                 <a href="/rooms_client" >ROOM DETAILS</a>
                                             </li>
                                         </ul>
-                                    </li>
-                                    <li id="menu-item-40" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-40">
-                                        <a href="/package_client" >DINING</a>
+                                    </li>-->
+<!--                                <li id="menu-item-40" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-40">
+                                        <a href="/package_client" >PACKAGE</a>
                                     </li>
                                     <li id="menu-item-39" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39">
                                         <a href="/day_client" >ACTIVITIES</a>
+                                    </li>-->
+                                    <li id="menu-item-39" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39">
+                                        <a href="/about_client" >ABOUT US</a>
                                     </li>
                                     <li id="menu-item-38" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-21 current_page_item menu-item-38">
                                         <a href="/gallery_client" >GALLERY</a>
                                     </li>
-                                    <li id="menu-item-37" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37">
+<!--                                    <li id="menu-item-37" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37">
                                         <a href="/offers_client" >OFFERS</a>
                                     </li>
                                     <li id="menu-item-36" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36">
                                         <a href="/contact_us" >CONTACT</a>
-                                    </li>
+                                    </li>-->
                                 </ul>
                             </nav>							
                         </div>
@@ -183,8 +189,8 @@ if (e.responsiveLevels && (jQuery.each(e.responsiveLevels, function(e, f){f > i 
                                 <div id="column-80f2429692aafaa40bb489bd6903e465" class="fw-col-sm-12 tf-sh-80f2429692aafaa40bb489bd6903e465  fw-animated-element" data-animation-type="fadeInUp" data-animation-delay="300">
                                     <div class="fw-col-inner">
                                         <div class="fw-divider-space  fw-custom-space  clearfix" style="height:50px;" ></div><div class="fw-heading fw-heading-center  fw-heading-with-subtitle tf-sh-efadf8d9af0d2b6b1517e82e1d1949a4" >
-                                            <h2 class="fw-special-title">Image Gallery</h2>
-                                            <div class="fw-special-subtitle">NULLA AT NULLA JUSTO, EGET LUCTUS TORTOR. NULLA FACILISI.</div>
+                                            <h2 class="fw-special-title">Gallery</h2>
+                                            <!--<div class="fw-special-subtitle">NULLA AT NULLA JUSTO, EGET LUCTUS TORTOR. NULLA FACILISI.</div>-->
                                         </div>
                                         <div class="fw-divider-space  fw-custom-space  fw-mobile-hide-element clearfix" style="height:80px;" ></div>	
                                     </div>
@@ -198,7 +204,108 @@ if (e.responsiveLevels && (jQuery.each(e.responsiveLevels, function(e, f){f > i 
                                 <div id="column-d72c20728d13bb9c460c4f45a2229626" class="fw-col-sm-12 tf-sh-d72c20728d13bb9c460c4f45a2229626  fw-animated-element" data-animation-type="fadeInUp" data-animation-delay="300">
                                     <div class="fw-col-inner">
                                         <div class="fw-gallery clearfix tf-sh-5c7b5a7a4680b3ddbc433d581fe17548 fw-gallery-type2">
-                                            <!--	<div class="fw-gallery-col fw-col-width1">
+                                            	<div class="fw-gallery-col fw-col-width1">
+                                                        
+                                                        <div class="fw-gallery-image fw-height-md fw-block-image-parent fw-overlay-4 overlay_color_1" >
+                                                            <a href="{{url('img/client/room-details-slide-3.jpg')}}" data-rel="prettyPhoto[fw-gallery-5c7b5a7a4680b3ddbc433d581fe17548]" class="fw-block-image-child fw-ratio-container fw-ratio-3-2">
+                                                                <noscript itemscope itemtype="https://schema.org/ImageObject" itemprop="image">
+                                                                <img src="{{url('img/client/room-details-slide-3.jpg')}}"  alt="room-details-slide-3" data-maxdpr="1.7" class="attachment-post-thumbnail lazyload" />
+                                                                <meta itemprop="url" content="{{url('img/client/room-details-slide-3.jpg')}}">
+                                                                <meta itemprop="width" content="937">
+                                                                <meta itemprop="height" content="511">
+                                                                </noscript>
+                                                                <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-sizes="auto" data-srcset="https://demo.themefuse.com/hotel-booking-wordpress-theme/wp-content/uploads/2017/04/room-details-slide-3-600x400.jpg 600w"   alt="room-details-slide-3" data-maxdpr="1.7" class="attachment-post-thumbnail lazyload" />
+                                                                <div class="fw-block-image-overlay">
+                                                                    <div class="fw-itable">
+                                                                        <div class="fw-icell">
+                                                                            <i class="fw-icon-zoom"></i>
+                                                                            <h5 class="fw-overlay-title">
+                                                                                <span style="margin-top:10px;">CLICK TO ENLARGE</span>
+                                                                            </h5>
+                                                                            <p class="fw-overlay-description"></p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </a>
+                                                        </div>
+                                                    
+                                                            <div class="fw-gallery-image fw-height-md fw-block-image-parent fw-overlay-4 overlay_color_1" >
+                                                            <a href="{{url('img/client/amenities-slider-1.jpg')}}" data-rel="prettyPhoto[fw-gallery-5c7b5a7a4680b3ddbc433d581fe17548]" class="fw-block-image-child fw-ratio-container fw-ratio-3-2">
+                                                                <noscript itemscope itemtype="https://schema.org/ImageObject" itemprop="image">
+                                                                <img src="{{url('img/client/room-details-slide-3.jpg')}}"  alt="room-details-slide-3" data-maxdpr="1.7" class="attachment-post-thumbnail lazyload" />
+                                                                <meta itemprop="url" content="{{url('img/client/room-details-slide-3.jpg')}}">
+                                                                <meta itemprop="width" content="937">
+                                                                <meta itemprop="height" content="511">
+                                                                </noscript>
+                                                                <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-sizes="auto" data-srcset="https://demo.themefuse.com/hotel-booking-wordpress-theme/wp-content/uploads/2017/04/amenities-slider-1-614x346.jpg 614w, https://demo.themefuse.com/hotel-booking-wordpress-theme/wp-content/uploads/2017/04/amenities-slider-1-295x166.jpg 295w, https://demo.themefuse.com/hotel-booking-wordpress-theme/wp-content/uploads/2017/04/amenities-slider-1-590x332.jpg 590w"   alt="room-details-slide-3" data-maxdpr="1.7" class="attachment-post-thumbnail lazyload" />
+                                                                <div class="fw-block-image-overlay">
+                                                                    <div class="fw-itable">
+                                                                        <div class="fw-icell">
+                                                                            <i class="fw-icon-zoom"></i>
+                                                                            <h5 class="fw-overlay-title">
+                                                                                <span style="margin-top:10px;">CLICK TO ENLARGE</span>
+                                                                            </h5>
+                                                                            <p class="fw-overlay-description"></p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                    </div>
+                                            
+                                                       	<div class="fw-gallery-col fw-col-width1">
+                                                        
+                                                               
+                                                            <div class="fw-gallery-image fw-height-md fw-block-image-parent fw-overlay-4 overlay_color_1" >
+                                                            <a href="{{url('img/client/amenities-slider-1.jpg')}}" data-rel="prettyPhoto[fw-gallery-5c7b5a7a4680b3ddbc433d581fe17548]" class="fw-block-image-child fw-ratio-container fw-ratio-3-2">
+                                                                <noscript itemscope itemtype="https://schema.org/ImageObject" itemprop="image">
+                                                                <img src="{{url('img/client/room-details-slide-3.jpg')}}"  alt="room-details-slide-3" data-maxdpr="1.7" class="attachment-post-thumbnail lazyload" />
+                                                                <meta itemprop="url" content="{{url('img/client/room-details-slide-3.jpg')}}">
+                                                                <meta itemprop="width" content="937">
+                                                                <meta itemprop="height" content="511">
+                                                                </noscript>
+                                                                <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-sizes="auto" data-srcset="https://demo.themefuse.com/hotel-booking-wordpress-theme/wp-content/uploads/2017/04/amenities-slider-1-614x346.jpg 614w, https://demo.themefuse.com/hotel-booking-wordpress-theme/wp-content/uploads/2017/04/amenities-slider-1-295x166.jpg 295w, https://demo.themefuse.com/hotel-booking-wordpress-theme/wp-content/uploads/2017/04/amenities-slider-1-590x332.jpg 590w"   alt="room-details-slide-3" data-maxdpr="1.7" class="attachment-post-thumbnail lazyload" />
+                                                                <div class="fw-block-image-overlay">
+                                                                    <div class="fw-itable">
+                                                                        <div class="fw-icell">
+                                                                            <i class="fw-icon-zoom"></i>
+                                                                            <h5 class="fw-overlay-title">
+                                                                                <span style="margin-top:10px;">CLICK TO ENLARGE</span>
+                                                                            </h5>
+                                                                            <p class="fw-overlay-description"></p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </a>
+                                                        </div>
+                                                            
+                                                        <div class="fw-gallery-image fw-height-md fw-block-image-parent fw-overlay-4 overlay_color_1" >
+                                                            <a href="{{url('img/client/room-details-slide-3.jpg')}}" data-rel="prettyPhoto[fw-gallery-5c7b5a7a4680b3ddbc433d581fe17548]" class="fw-block-image-child fw-ratio-container fw-ratio-3-2">
+                                                                <noscript itemscope itemtype="https://schema.org/ImageObject" itemprop="image">
+                                                                <img src="{{url('img/client/room-details-slide-3.jpg')}}"  alt="room-details-slide-3" data-maxdpr="1.7" class="attachment-post-thumbnail lazyload" />
+                                                                <meta itemprop="url" content="{{url('img/client/room-details-slide-3.jpg')}}">
+                                                                <meta itemprop="width" content="937">
+                                                                <meta itemprop="height" content="511">
+                                                                </noscript>
+                                                                <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-sizes="auto" data-srcset="https://demo.themefuse.com/hotel-booking-wordpress-theme/wp-content/uploads/2017/04/room-details-slide-3-600x400.jpg 600w"   alt="room-details-slide-3" data-maxdpr="1.7" class="attachment-post-thumbnail lazyload" />
+                                                                <div class="fw-block-image-overlay">
+                                                                    <div class="fw-itable">
+                                                                        <div class="fw-icell">
+                                                                            <i class="fw-icon-zoom"></i>
+                                                                            <h5 class="fw-overlay-title">
+                                                                                <span style="margin-top:10px;">CLICK TO ENLARGE</span>
+                                                                            </h5>
+                                                                            <p class="fw-overlay-description"></p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </a>
+                                                        </div>
+                                                 
+                                                        
+                                                    </div>
+<!--                                                	<div class="fw-gallery-col fw-col-width1">
                                                         
                                                         <div class="fw-gallery-image fw-height-md fw-block-image-parent fw-overlay-4 overlay_color_1" >
                                                             <a href="{{url('img/client/room-details-slide-3.jpg')}}" data-rel="prettyPhoto[fw-gallery-5c7b5a7a4680b3ddbc433d581fe17548]" class="fw-block-image-child fw-ratio-container fw-ratio-3-2">
@@ -247,7 +354,7 @@ if (e.responsiveLevels && (jQuery.each(e.responsiveLevels, function(e, f){f > i 
                                                     </div>-->
                                             <div class="fw-gallery-col fw-col-width1" >
 
-                                                <!--                        <div class="fw-gallery-col fw-col-width2">
+<!--                                                                        <div class="fw-gallery-col fw-col-width2">
                                                                             <div class="fw-gallery-image fw-height-sm fw-block-image-parent fw-overlay-4 overlay_color_1" >
                                                                                 <a href="{{url('img/client/dining-slider.jpg')}}" data-rel="prettyPhoto[fw-gallery-5c7b5a7a4680b3ddbc433d581fe17548]" class="fw-block-image-child fw-ratio-container fw-ratio-1 ">
                                                                                     <noscript itemscope itemtype="https://schema.org/ImageObject" itemprop="image">
@@ -295,9 +402,11 @@ if (e.responsiveLevels && (jQuery.each(e.responsiveLevels, function(e, f){f > i 
                                                                                     </div>
                                                                                 </a>
                                                                             </div>
-                                                                        </div>-->
-                                                @foreach($gallery as $get_gallery)
-                                                <div class="fw-gallery-image fw-height-md fw-block-image-parent fw-overlay-4 overlay_color_1" >
+                                                                        </div>
+                                                -->
+                                                
+                                                <!--@foreach($gallery as $get_gallery)-->
+<!--                                                <div class="fw-gallery-image fw-height-md fw-block-image-parent fw-overlay-4 overlay_color_1" >
                                                     <a href="{{url('images/'.$get_gallery->image)}}" data-rel="prettyPhoto[fw-gallery-5c7b5a7a4680b3ddbc433d581fe17548]" class="fw-block-image-child fw-ratio-container fw-ratio-3-2">
                                                         <noscript itemscope itemtype="https://schema.org/ImageObject" itemprop="image">
                                                         <img src="{{url('images/'.$get_gallery->image)}}"  alt="amenities-slider-2" data-maxdpr="1.7" class="attachment-post-thumbnail lazyload" />
@@ -318,14 +427,14 @@ if (e.responsiveLevels && (jQuery.each(e.responsiveLevels, function(e, f){f > i 
                                                             </div>
                                                         </div>
                                                     </a>
-                                                </div>
-                                                @endforeach
+                                                </div>-->
+                                                <!--@endforeach-->
                                             </div>
                                         </div>	
                                     </div>
                                 </div>
                             </div>
-                            <div class="fw-row">
+<!--                            <div class="fw-row">
                                 <div id="column-7be3a355d14f40a492c9554f04a9731f" class="fw-col-sm-12 tf-sh-7be3a355d14f40a492c9554f04a9731f  fw-animated-element" data-animation-type="fadeInUp" data-animation-delay="300">
                                     <div class="fw-col-inner">
                                         <div class="fw-divider-space  fw-custom-space  fw-mobile-hide-element clearfix" style="height:100px;" ></div>
@@ -337,10 +446,10 @@ if (e.responsiveLevels && (jQuery.each(e.responsiveLevels, function(e, f){f > i 
                                         <div class="fw-divider-space  fw-custom-space  fw-mobile-hide-element clearfix" style="height:100px;" ></div>	
                                     </div>
                                 </div>
-                            </div>
+                            </div>-->
                         </div>
                     </section>
-                    <section  id="section-5b0186ec3e92f" class=" fw-main-row-custom fw-section-no-padding fw-content-overlay-custom auto  tf-sh-41b8968010b48ae8fecf48eb97540ff2 map-title-adjustment"  style="  margin-bottom:-75px;">
+<!--                    <section  id="section-5b0186ec3e92f" class=" fw-main-row-custom fw-section-no-padding fw-content-overlay-custom auto  tf-sh-41b8968010b48ae8fecf48eb97540ff2 map-title-adjustment"  style="  margin-bottom:-75px;">
                         <div class="fw-container-fluid" >
                             <div class="fw-row">
                                 <div id="column-09ec2f97e47a1607f8291b4be9e0d110" class="fw-col-sm-12 tf-sh-09ec2f97e47a1607f8291b4be9e0d110  fw-animated-element" data-animation-type="fadeInUp" data-animation-delay="300">
@@ -352,8 +461,8 @@ if (e.responsiveLevels && (jQuery.each(e.responsiveLevels, function(e, f){f > i 
                                 </div>
                             </div>
                         </div>
-                    </section>
-                    <section  id="section-5b0186ec3f3ba" class=" fw-main-row-custom fw-section-no-padding fw-content-overlay-custom fw-section-height-custom custom-shape  tf-sh-39eb966dc83ad1da12c168d71805256f map-custom-shape-top"  style="  margin-bottom:-130px; height: 130px;"  >
+                    </section>-->
+<!--                    <section  id="section-5b0186ec3f3ba" class=" fw-main-row-custom fw-section-no-padding fw-content-overlay-custom fw-section-height-custom custom-shape  tf-sh-39eb966dc83ad1da12c168d71805256f map-custom-shape-top"  style="  margin-bottom:-130px; height: 130px;"  >
                         <div class="custom-shape-wrap custom-shape-top-type-2">
                             <div class="shape-container">
                                 <svg width="100%" height="131px">
@@ -413,8 +522,8 @@ if (e.responsiveLevels && (jQuery.each(e.responsiveLevels, function(e, f){f > i 
                                 </div>
                             </div>
                         </div>
-                    </section>
-                    <section  id="section-5b0186ec419ec" class="fw-main-row-custom fw-section-no-padding auto tf-sh-166c275125d9280cc11204658404b560"  style="">
+                    </section>-->
+<!--                    <section  id="section-5b0186ec419ec" class="fw-main-row-custom fw-section-no-padding auto tf-sh-166c275125d9280cc11204658404b560"  style="">
                         <div class="fw-container" >
                             <div class="fw-row">
                                 <div id="column-8867899e6ac0412a72ba1957bbb6dca9" class="fw-col-sm-12 fw-col-md-9 tf-sh-8867899e6ac0412a72ba1957bbb6dca9 testimonial-adjustments fw-animated-element" data-animation-type="fadeInUp" data-animation-delay="300">
@@ -487,7 +596,7 @@ if (e.responsiveLevels && (jQuery.each(e.responsiveLevels, function(e, f){f > i 
                             </div>
 
                         </div>
-                    </section>
+                    </section>-->
                     <section  id="section-5b0186ec43878" class="fw-main-row-custom fw-section-no-padding  auto custom-shape  tf-sh-cf847fc90fc48d643d7d7e4feff8c9ff"  style="background-color:#e5eaeb;" >
                         <div class="custom-shape-wrap custom-shape-top-type-2">
                             <div class="shape-container">
@@ -593,15 +702,15 @@ if (e.responsiveLevels && (jQuery.each(e.responsiveLevels, function(e, f){f > i 
                                                 <li id="menu-item-160" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-160">
                                                     <a href="#" >ABOUT</a>
                                                 </li>
-                                                <li id="menu-item-159" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-159">
+<!--                                                <li id="menu-item-159" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-159">
                                                     <a href="/rooms_client" >ROOMS</a>
-                                                </li>
-                                                <li id="menu-item-158" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-158">
-                                                    <a href="/package_client" >DINING</a>
+                                                </li>-->
+<!--                                                <li id="menu-item-158" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-158">
+                                                    <a href="/package_client" >PACKAGE</a>
                                                 </li>
                                                 <li id="menu-item-157" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-157">
                                                     <a href="/day_client" >ATTRACTIONS</a>
-                                                </li>
+                                                </li>-->
                                             </ul>
                                         </div>
                                     </aside>
