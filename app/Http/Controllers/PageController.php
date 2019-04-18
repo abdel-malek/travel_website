@@ -26,6 +26,9 @@ class PageController extends Controller
     public function why_syria(){
         return view('client/pages/why_syria');
     }
+     public function tours(){
+        return view('client/pages/tours');
+    }
     public function our_services(){
         return view('client/pages/our_services');
     }

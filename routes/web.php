@@ -23,6 +23,7 @@ Route::get('/offers_client', 'PageController@offers');
 Route::get('/why_syria_client', 'PageController@why_syria');
 Route::get('/about_client', 'PageController@about');
 Route::get('/our_services_client', 'PageController@our_services');
+Route::get('/tour_client', 'PageController@tours');
 
 Route::get('/admin-login', 'LoginAdminController@index');
 Route::post('/login', 'LoginAdminController@login');
